@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Marvellous-is-cool",
+  "repo": "container-fpuoymm",
+  "name": "Marvellous-is-cool",
+  "email": "adebayoinioluwamarvellous1@gmail.com",
+}
